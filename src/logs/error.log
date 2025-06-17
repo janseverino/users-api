@@ -1,0 +1,4 @@
+{"level":50,"time":1750116294519,"pid":17776,"hostname":"KSQ-5CD140F6D6","function":"getUsers","file":"user.controllers.ts","line":"15","column":"15","error":"Error: Invalid query parameters","msg":"Error in getUsers:"}
+{"level":50,"time":1750116533431,"pid":23296,"hostname":"KSQ-5CD140F6D6","function":"getUsers","file":"user.controllers.ts","line":"15","column":"15","error":"Error: Invalid query parameters","msg":"Error in getUsers:"}
+{"level":50,"time":1750116571624,"pid":23296,"hostname":"KSQ-5CD140F6D6","function":"getUsers","file":"user.controllers.ts","line":"15","column":"15","error":"Error: Invalid query parameters","msg":"Error in getUsers:"}
+{"level":50,"time":1750116576023,"pid":23296,"hostname":"KSQ-5CD140F6D6","function":"getUsers","file":"user.controllers.ts","line":"15","column":"15","error":"Error: Invalid query parameters","msg":"Error in getUsers:"}
